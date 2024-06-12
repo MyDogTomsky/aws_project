@@ -1,3 +1,13 @@
 # aws_project
-This repository is for the aws project with Terraform.
- 55dcb1135d0fc13525e4c42d35d30af9204e1090
+This repository is for two AWS projects.
+
+1) Hosting Dynamic Web using AWS console (LAMP Server)
+   
+ * Basic Technologies & Tools:
+   - AWS services : EC2, S3, RDS, SQS
+   - Database: MySQL
+   - Data Migration Tool: Flyway
+   - DB Management: MyPhpAdmin
+
+2) Hosting Dynamic Web with Terraform
+
